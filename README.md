@@ -14,6 +14,6 @@ Explore the delightful realm of ASCII art with **Rotating Donut**! This playful 
    Open a terminal (e.g., Command Prompt or PowerShell) and navigate to the directory where your `rotating_donut.cpp` file is located. Then, use the following command to compile the program:
    ```bash
    g++ -o rotating_donut rotating_donut.cpp
-3.**Run the Program**: After compiling, run the program with this command:
+3. **Run the Program**: After compiling, run the program with this command:
 ```bash
 ./rotating_donut
